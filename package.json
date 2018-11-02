@@ -1,0 +1,19 @@
+{
+  "name": "easy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalezsoriano777/EasyExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalezsoriano777/EasyExpress/issues"
+  },
+  "homepage": "https://github.com/gonzalezsoriano777/EasyExpress#readme"
+}
