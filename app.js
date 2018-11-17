@@ -9,5 +9,9 @@ app.get('/user/:name', (req, res) => {
     res.send('Hey ' + req.params.name + ' You good brother' + '!')
 })
 
+app.get('/user', (req, res) => {
+    res.send('Yo wassup bob');
+})
+
 app.listen(process.env.PORT, process.env.IP, 3000, function(){
     console.log('Listening to Port 3000')});
